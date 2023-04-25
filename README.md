@@ -6,7 +6,7 @@ This repository contains tutorials for various aspects of Python aimed at begine
 
 Absolute beginers:installing python and using github - TO DO
 
-Interacting with the command prompt - TO DO
+Interacting with the command line - TO DO
 
 The Jupyter Notebook - TO DO
 
