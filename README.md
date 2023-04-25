@@ -26,7 +26,7 @@ Scipy - TO DO
 
 Itertools - TO DO
 
-Database Queries - TO DO
+Database Queries with SQL - TO DO
 
 
 
